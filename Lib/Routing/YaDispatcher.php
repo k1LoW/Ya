@@ -1,7 +1,7 @@
 <?php
 
 App::uses('Dispatcher', 'Routing');
-App::uses('InactiveControllerException', 'Caco.Error');
+App::uses('InactiveControllerException', 'Ya.Error');
 App::build(
     [
         'Controller' => [
