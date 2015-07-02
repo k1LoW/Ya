@@ -40,3 +40,13 @@ app/Ya/YAPostsController.php
 
   }
 ```
+
+## Behavior of YaDispatcher
+
+### Default action
+
+![default flow](default.png)
+
+### Safety action
+
+![safety flow](safety.png)
